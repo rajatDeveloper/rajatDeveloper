@@ -19,11 +19,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/android.svg" alt="Android" width="40" height="40"/> </a>
+<p align="left">
+
 &emsp;&emsp;
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
 &emsp;&emsp;
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 &emsp;&emsp;
- <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
