@@ -10,7 +10,7 @@
 - 💬 Ask me about **Flutter, Java, Django and React**
 - 📫 How to reach me :
 
-  - [![Linkedin Badge](https://img.shields.io/badge/-shatanikmahanty-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:chatterjeeu7@gmail.com)](https://www.linkedin.com/in/rajat-dhiman-dev/)
+  - [![Linkedin Badge](https://img.shields.io/badge/-rajat-dhiman-dev-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:chatterjeeu7@gmail.com)](https://www.linkedin.com/in/rajat-dhiman-dev/)
 
 - ⚡ Fun fact: **You will always find me experimenting with Flutter and binging some anime 😉**
 
