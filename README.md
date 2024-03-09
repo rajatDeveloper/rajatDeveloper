@@ -37,6 +37,6 @@
 &emsp;&emsp;
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatdeveloper&show_icons=true&locale=en" alt="rajatdeveloper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatDeveloper&show_icons=true&locale=en" alt="rajatDeveloper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatdeveloper&" alt="rajatdeveloper" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatDeveloper" alt="rajatDeveloper" /></p>
