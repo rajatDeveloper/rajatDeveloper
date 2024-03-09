@@ -39,7 +39,7 @@
 
 <p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatDeveloper&show_icons=true&locale=en&count_private=true&theme=dracula" alt="shatanikmahantystats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatDeveloper&show_icons=true&locale=en&count_private=true&theme=dracula" alt="rajatDeveloper" /></p>
 
 <br>
 
