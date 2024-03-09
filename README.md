@@ -38,8 +38,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
 <p>
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatDeveloper&show_icons=true&locale=en" alt="rajatDeveloper" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatDeveloper&show_icons=true&locale=en&count_private=true&theme=dracula" alt="shatanikmahantystats" /></p>
 
 <br>
