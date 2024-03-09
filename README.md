@@ -42,7 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatDeveloper&show_icons=true&locale=en&count_private=true&theme=dracula" alt="rajatDeveloper" /></p>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatDeveloper&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatDeveloper" alt="rajatDeveloper" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatDeveloper&theme=dracula" alt="rajatDeveloper" /></p>
