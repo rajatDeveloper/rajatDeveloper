@@ -3,13 +3,14 @@
 </p>
 
 <h2 >Hi there 👋, I am Rajat Dhiman</h2>
-<h3 >Software</h3>
+<h3 >Crafting Digital Solutions: A Software Engineer's Journey</h3>
 
 - 🔭 Working as Flutter Developer at [App Mechanic](https://www.linkedin.com/company/app-mechanic/)
 - 🌱 Learning more about **Flutter and Django**
 - 💬 Ask me about **Flutter, Java, Django and React**
 - ⚡ Fun fact: **You will always find me experimenting with Flutter and binging some anime 😉**
-
+- 📫 How to reach me **rajatdelldhiman@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uaecS45zCl9N8utM3g8M47x1Yln-Uml1/view?usp=sharing](https://drive.google.com/file/d/1uaecS45zCl9N8utM3g8M47x1Yln-Uml1/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 
@@ -27,3 +28,5 @@
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 &emsp;&emsp;
 <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
+&emsp;&emsp;
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
